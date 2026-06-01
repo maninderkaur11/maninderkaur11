@@ -55,7 +55,7 @@ I design intuitive user experiences and bring them to life with clean, functiona
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maninderkaur1705&theme=react&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=maninderkaur11&theme=react&hide_border=true&background=0D1117" />
 </p>
 
 ---
