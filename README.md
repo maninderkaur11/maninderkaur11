@@ -52,11 +52,11 @@ I design intuitive user experiences and bring them to life with clean, functiona
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maninderkaur1705&theme=react&hide_border=true&background=0D1117" />
+</p>
 
 ---
 
