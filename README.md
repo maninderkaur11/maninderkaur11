@@ -62,10 +62,10 @@ I design intuitive user experiences and bring them to life with clean, functiona
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/maninderkaur11/](https://www.linkedin.com/in/maninderkaur11/)
-* 🌐 Website: [https://maninderkaur.com/](https://maninderkaur.com/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/maninderkaur11/](https://www.linkedin.com/in/maninderkaur11)
+* 🌐 Website: [https://maninderkaur.com/](https://www.maninderkaur.com)
 * 🎨 Behance: [https://www.behance.net/maninderkaur](https://www.behance.net/maninderkaur)
-* 💻 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* 💻 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/maninderkaur11)
 * 🏀 Dribbble: [https://dribbble.com/maninderkaur](https://dribbble.com/maninderkaur)
 
 ---
