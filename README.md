@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.maninderkaur.com/"><img src="https://api.iconify.design/lucide:globe.svg?color=%23F97316" width="36" height="36" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/maninderkaur11/"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%230A66C2" width="36" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.behance.net/maninderkaur"><img src="https://api.iconify.design/simple-icons:behance.svg?color=%231769FF" width="36" height="36" alt="Behance" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dribbble.com/maninderkaur"><img src="https://api.iconify.design/simple-icons:dribbble.svg?color=%23EA4C89" width="36" height="36" alt="Dribbble" /></a>
+  <a href="https://www.maninderkaur.com/"><img src="https://img.shields.io/badge/%20-F97316?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg==" height="40" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maninderkaur11/"><img src="https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.behance.net/maninderkaur"><img src="https://img.shields.io/badge/%20-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="40" alt="Behance" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dribbble.com/maninderkaur"><img src="https://img.shields.io/badge/%20-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="40" alt="Dribbble" /></a>
 </p>
 
 ---
@@ -104,8 +104,6 @@ I use code to explore interactions and turn design concepts into working experie
 
 ## 📊 GitHub Stats
 
-<h2>📊 GitHub Stats</h2>
-
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=maninderkaur11&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Maninder Kaur's GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maninderkaur11&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" alt="Most used languages" />
@@ -132,6 +130,7 @@ I use code to explore interactions and turn design concepts into working experie
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/maninderkaur11"><img height="36" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
 ---
 
 ## ✨ Design Philosophy
