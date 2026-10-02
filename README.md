@@ -118,20 +118,21 @@ I use code to explore interactions and turn design concepts into working experie
 
 ---
 
-## 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.maninderkaur.com/"><img height="28" src="https://img.shields.io/badge/Portfolio-111827?style=flat" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/maninderkaur11/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://www.behance.net/maninderkaur"><img height="28" src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance" /></a>
-  &nbsp;
-  <a href="https://dribbble.com/maninderkaur"><img height="28" src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
-  &nbsp;
-  <a href="https://github.com/maninderkaur11"><img height="28" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.maninderkaur.com/"><img height="36" src="https://img.shields.io/badge/Visit_Portfolio-111827?style=for-the-badge" alt="Visit portfolio" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maninderkaur11/"><img height="36" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 </p>
 
+<p align="center">
+  <a href="https://www.behance.net/maninderkaur"><img height="36" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://dribbble.com/maninderkaur"><img height="36" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/maninderkaur11"><img height="36" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 ---
 
 ## ✨ Design Philosophy
