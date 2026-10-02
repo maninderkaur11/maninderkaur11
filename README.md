@@ -36,14 +36,34 @@
 
 For design, prototyping, development, and collaboration.
 
-| Design & Prototyping | AI & Coding | Development & Cloud | Collaboration |
-| :---: | :---: | :---: | :---: |
-| ![Figma](https://img.shields.io/badge/Figma-F5F5F5?style=flat&logo=figma&logoColor=F24E1E) | ![Cursor](https://img.shields.io/badge/Cursor-F5F5F5?style=flat) | ![HTML](https://img.shields.io/badge/HTML-F5F5F5?style=flat&logo=html5&logoColor=E34F26) | ![Jira](https://img.shields.io/badge/Jira-F5F5F5?style=flat&logo=jira&logoColor=0052CC) |
-| ![Adobe CC](https://img.shields.io/badge/Adobe_CC-F5F5F5?style=flat) | ![Claude](https://img.shields.io/badge/Claude-F5F5F5?style=flat&logo=claude&logoColor=D97757) | ![CSS](https://img.shields.io/badge/CSS-F5F5F5?style=flat&logo=css&logoColor=1572B6) | ![Confluence](https://img.shields.io/badge/Confluence-F5F5F5?style=flat&logo=confluence&logoColor=0052CC) |
-| ![FigJam](https://img.shields.io/badge/FigJam-F5F5F5?style=flat&logo=figma&logoColor=A259FF) | ![ChatGPT](https://img.shields.io/badge/ChatGPT-F5F5F5?style=flat) | ![JavaScript](https://img.shields.io/badge/JavaScript-F5F5F5?style=flat&logo=javascript&logoColor=B59F00) | ![Notion](https://img.shields.io/badge/Notion-F5F5F5?style=flat&logo=notion&logoColor=111111) |
-| ![Miro](https://img.shields.io/badge/Miro-F5F5F5?style=flat&logo=miro&logoColor=111111) | ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-F5F5F5?style=flat&logo=githubcopilot&logoColor=24292F) | ![React](https://img.shields.io/badge/React-F5F5F5?style=flat&logo=react&logoColor=087EA4) | |
-| | | ![Vercel](https://img.shields.io/badge/Vercel-F5F5F5?style=flat&logo=vercel&logoColor=111111) | |
-| | | ![AWS](https://img.shields.io/badge/AWS-F5F5F5?style=flat) | |
+### 🎨 Design & Prototyping
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe CC](https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge)
+![FigJam](https://img.shields.io/badge/FigJam-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
+
+### 🤖 AI & Coding Assistants
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+### 💻 Development & Deployment
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+
+### 🤝 Collaboration & Documentation
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
