@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=53CFF1&center=true&vCenter=true&width=750&height=60&repeat=true&lines=Designing+Complex+Product+Experiences;AI+Onboarding+%7C+Agent+Assistance;Interaction+Design+%7C+Design+Systems;Figma+%7C+React+%7C+Code-Based+Prototyping" alt="Product design, AI experiences, design systems, and code-based prototyping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=F97316&center=true&vCenter=true&width=750&height=60&repeat=true&lines=Designing+Complex+Product+Experiences;AI+Onboarding+%7C+Agent+Assistance;Interaction+Design+%7C+Design+Systems;Figma+%7C+React+%7C+Code-Based+Prototyping" alt="Product design, AI experiences, design systems, and code-based prototyping" />
 </p>
 
 <p align="center">
