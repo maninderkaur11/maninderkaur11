@@ -1,5 +1,16 @@
 # 👋 Hi, I'm Maninder Kaur
 
+### Senior Product Designer | Enterprise SaaS & AI Experiences
+
+I’m a product designer with 10+ years of experience designing complex
+workflows across enterprise SaaS, healthcare, and consumer products.
+
+My work spans AI onboarding, agent-assistance experiences, customer
+journeys, and design systems. I use interactive and code-based
+prototypes to explore ideas and communicate product behaviour.
+
+🌐 [Explore my portfolio](https://www.maninderkaur.com)
+
 ### 🎨 Designer + 💻 Developer
 
 I design intuitive user experiences and bring them to life with clean, functional code.
