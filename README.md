@@ -11,11 +11,21 @@
 </p>
 
 <p align="center">
-  <a href="https://www.maninderkaur.com/"><img height="30" src="https://img.shields.io/badge/Visit_Portfolio-111827?style=flat" alt="Visit portfolio" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/maninderkaur11/"><img height="30" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat" alt="Connect on LinkedIn" /></a>
-  &nbsp;
-  <a href="https://www.behance.net/maninderkaur"><img height="30" src="https://img.shields.io/badge/Behance-Explore_Work-1769FF?style=flat&logo=behance&logoColor=white" alt="Explore Behance" /></a>
+  <a href="https://www.maninderkaur.com/">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="36" height="36" alt="Portfolio" title="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maninderkaur11/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.behance.net/maninderkaur">
+    <img src="https://cdn.simpleicons.org/behance/1769FF" width="36" height="36" alt="Behance" title="Behance" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://dribbble.com/maninderkaur">
+    <img src="https://cdn.simpleicons.org/dribbble/EA4C89" width="36" height="36" alt="Dribbble" title="Dribbble" />
+  </a>
 </p>
 
 ---
