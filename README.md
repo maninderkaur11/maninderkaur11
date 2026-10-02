@@ -7,13 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=53CFF1&center=true&vCenter=true&width=750&height=60&repeat=true&lines=Designing+Complex+Product+Experiences;AI+Onboarding+%7C+Agent+Assistance;Interaction+Design+%7C+Design+Systems;Figma+%7C+React+%7C+Code-Based+Prototyping" alt="Animated introduction highlighting product design, AI experiences, design systems, and prototyping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=53CFF1&center=true&vCenter=true&width=750&height=60&repeat=true&lines=Designing+Complex+Product+Experiences;AI+Onboarding+%7C+Agent+Assistance;Interaction+Design+%7C+Design+Systems;Figma+%7C+React+%7C+Code-Based+Prototyping" alt="Product design, AI experiences, design systems, and code-based prototyping" />
 </p>
 
 <p align="center">
-  <a href="https://www.maninderkaur.com/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge" alt="Visit my portfolio" /></a>
-  <a href="https://www.linkedin.com/in/maninderkaur11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="https://www.behance.net/maninderkaur"><img src="https://img.shields.io/badge/Behance-Explore_Work-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Explore my Behance work" /></a>
+  <a href="https://www.maninderkaur.com/"><img height="30" src="https://img.shields.io/badge/Visit_Portfolio-111827?style=flat" alt="Visit portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/maninderkaur11/"><img height="30" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.behance.net/maninderkaur"><img height="30" src="https://img.shields.io/badge/Behance-Explore_Work-1769FF?style=flat&logo=behance&logoColor=white" alt="Explore Behance" /></a>
 </p>
 
 ---
@@ -34,34 +36,14 @@
 
 For design, prototyping, development, and collaboration.
 
-### 🎨 Design & Prototyping
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe CC](https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge)
-![FigJam](https://img.shields.io/badge/FigJam-A259FF?style=for-the-badge&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
-
-### 🤖 AI & Coding Assistants
-
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
-### 💻 Development & Deployment
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
-
-### 🤝 Collaboration & Documentation
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+| Design & Prototyping | AI & Coding | Development & Cloud | Collaboration |
+| :---: | :---: | :---: | :---: |
+| ![Figma](https://img.shields.io/badge/Figma-F5F5F5?style=flat&logo=figma&logoColor=F24E1E) | ![Cursor](https://img.shields.io/badge/Cursor-F5F5F5?style=flat) | ![HTML](https://img.shields.io/badge/HTML-F5F5F5?style=flat&logo=html5&logoColor=E34F26) | ![Jira](https://img.shields.io/badge/Jira-F5F5F5?style=flat&logo=jira&logoColor=0052CC) |
+| ![Adobe CC](https://img.shields.io/badge/Adobe_CC-F5F5F5?style=flat) | ![Claude](https://img.shields.io/badge/Claude-F5F5F5?style=flat&logo=claude&logoColor=D97757) | ![CSS](https://img.shields.io/badge/CSS-F5F5F5?style=flat&logo=css&logoColor=1572B6) | ![Confluence](https://img.shields.io/badge/Confluence-F5F5F5?style=flat&logo=confluence&logoColor=0052CC) |
+| ![FigJam](https://img.shields.io/badge/FigJam-F5F5F5?style=flat&logo=figma&logoColor=A259FF) | ![ChatGPT](https://img.shields.io/badge/ChatGPT-F5F5F5?style=flat) | ![JavaScript](https://img.shields.io/badge/JavaScript-F5F5F5?style=flat&logo=javascript&logoColor=B59F00) | ![Notion](https://img.shields.io/badge/Notion-F5F5F5?style=flat&logo=notion&logoColor=111111) |
+| ![Miro](https://img.shields.io/badge/Miro-F5F5F5?style=flat&logo=miro&logoColor=111111) | ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-F5F5F5?style=flat&logo=githubcopilot&logoColor=24292F) | ![React](https://img.shields.io/badge/React-F5F5F5?style=flat&logo=react&logoColor=087EA4) | |
+| | | ![Vercel](https://img.shields.io/badge/Vercel-F5F5F5?style=flat&logo=vercel&logoColor=111111) | |
+| | | ![AWS](https://img.shields.io/badge/AWS-F5F5F5?style=flat) | |
 
 ---
 
@@ -71,13 +53,13 @@ For design, prototyping, development, and collaboration.
 
 AI assistant experiences focused on owner onboarding, skill selection, configuration, and testing before launch.
 
-👉 **[View the case study](https://www.maninderkaur.com/xbert)**
+**[Explore the case study →](https://www.maninderkaur.com/xbert)**
 
 ### 🎨 Product Design Portfolio
 
 Enterprise and AI product experiences, complex workflows, and design systems.
 
-👉 **[Explore my portfolio](https://www.maninderkaur.com/)**
+**[Visit my portfolio →](https://www.maninderkaur.com/)**
 
 ### ✨ UI/UX & Visual Explorations
 
@@ -86,7 +68,7 @@ Enterprise and AI product experiences, complex workflows, and design systems.
 - Food Mobile App UI
 - Crypto Advice App
 
-👉 **[Explore projects on Behance](https://www.behance.net/maninderkaur)**
+**[Explore projects on Behance →](https://www.behance.net/maninderkaur)**
 
 ---
 
@@ -104,11 +86,11 @@ I use code to explore interactions and turn design concepts into working experie
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="495" src="https://github-readme-stats.vercel.app/api?username=maninderkaur11&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Maninder Kaur's GitHub stats" />
+  <img width="495" src="https://github-readme-stats.vercel.app/api?username=maninderkaur11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=53CFF1&icon_color=53CFF1&text_color=FFFFFF" alt="Maninder Kaur's GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="495" src="https://streak-stats.demolab.com?user=maninderkaur11&theme=react&hide_border=true&background=0D1117" alt="Maninder Kaur's GitHub streak" />
+  <img width="495" src="https://streak-stats.demolab.com?user=maninderkaur11&theme=react&hide_border=true&background=0D1117&ring=53CFF1&fire=53CFF1&currStreakNum=53CFF1&sideNums=53CFF1&currStreakLabel=53CFF1&sideLabels=53CFF1&dates=FFFFFF" alt="Total contributions, current streak, and longest streak" />
 </p>
 
 ---
@@ -116,11 +98,15 @@ I use code to explore interactions and turn design concepts into working experie
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.maninderkaur.com/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/maninderkaur11/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://www.behance.net/maninderkaur"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="https://dribbble.com/maninderkaur"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
-  <a href="https://github.com/maninderkaur11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.maninderkaur.com/"><img height="28" src="https://img.shields.io/badge/Portfolio-111827?style=flat" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/maninderkaur11/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.behance.net/maninderkaur"><img height="28" src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance" /></a>
+  &nbsp;
+  <a href="https://dribbble.com/maninderkaur"><img height="28" src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+  &nbsp;
+  <a href="https://github.com/maninderkaur11"><img height="28" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
