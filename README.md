@@ -105,12 +105,15 @@ I use code to explore interactions and turn design concepts into working experie
 
 ## 📊 GitHub Stats
 
+<h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <img width="495" src="https://github-readme-stats.vercel.app/api?username=maninderkaur11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=53CFF1&icon_color=53CFF1&text_color=FFFFFF" alt="Maninder Kaur's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=maninderkaur11&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Maninder Kaur's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maninderkaur11&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img width="495" src="https://streak-stats.demolab.com?user=maninderkaur11&theme=react&hide_border=true&background=0D1117&ring=53CFF1&fire=53CFF1&currStreakNum=53CFF1&sideNums=53CFF1&currStreakLabel=53CFF1&sideLabels=53CFF1&dates=FFFFFF" alt="Total contributions, current streak, and longest streak" />
+  <img width="550" src="https://streak-stats.demolab.com?user=maninderkaur11&theme=react&hide_border=true&background=0D1117&ring=53CFF1&fire=53CFF1&currStreakNum=53CFF1&sideNums=53CFF1&currStreakLabel=53CFF1&sideLabels=53CFF1&dates=FFFFFF" alt="Total contributions, current streak, and longest streak" />
 </p>
 
 ---
