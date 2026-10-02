@@ -107,9 +107,27 @@ I use code to explore interactions and turn design concepts into working experie
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
-![GitHub streak](https://streak-stats.demolab.com?user=maninderkaur11&theme=react&hide_border=true&background=0D1117)
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=maninderkaur11&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"
+    alt="Maninder Kaur's GitHub stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maninderkaur11&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
+    alt="Most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=maninderkaur11&theme=react&hide_border=true&background=0D1117"
+    alt="Maninder Kaur's GitHub streak"
+  />
+</p>
 
 ---
 
