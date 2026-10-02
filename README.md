@@ -7,32 +7,26 @@
 </p>
 
 <p align="center">
-  <a href="https://www.maninderkaur.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/maninderkaur11/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://www.behance.net/maninderkaur">
-    <img src="https://img.shields.io/badge/Behance-Explore_Work-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=53CFF1&center=true&vCenter=true&width=750&height=60&repeat=true&lines=Designing+Complex+Product+Experiences;AI+Onboarding+%7C+Agent+Assistance;Interaction+Design+%7C+Design+Systems;Figma+%7C+React+%7C+Code-Based+Prototyping" alt="Animated introduction highlighting product design, AI experiences, design systems, and prototyping" />
+</p>
+
+<p align="center">
+  <a href="https://www.maninderkaur.com/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge" alt="Visit my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/maninderkaur11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.behance.net/maninderkaur"><img src="https://img.shields.io/badge/Behance-Explore_Work-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Explore my Behance work" /></a>
 </p>
 
 ---
 
 ## 👩‍🎨 About Me
 
-- 🎯 Senior Product Designer with **10+ years of experience** across enterprise SaaS, healthcare, and consumer products.
+- 🎯 Product designer with **10+ years of experience** across enterprise SaaS, healthcare, and consumer products.
 - 🤖 Designed **AI onboarding, agent-assistance, and customer communication experiences** at Nextiva.
-- 🎨 Contributed to the **Sedona design system** to support consistent product experiences.
-- 💻 Bring ideas to life through **Figma prototypes, HTML, CSS, JavaScript, and React**.
-- ✨ Work with **Cursor, Claude, ChatGPT, and GitHub Copilot** for AI-assisted prototyping.
+- 🎨 Contributed to the **Sedona design system**, supporting consistent product experiences.
+- 💻 Bring ideas to life through **interaction design, visual design, and code-based prototyping**.
 - 🤝 Mentor designers through **design critiques and individual coaching**.
 - 🌐 Explore my work at **[maninderkaur.com](https://www.maninderkaur.com/)**.
-- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/maninderkaur11/)**.
 - 🚀 Open to **full-time and freelance product design opportunities**.
-
----
 
 ---
 
@@ -81,9 +75,9 @@ AI assistant experiences focused on owner onboarding, skill selection, configura
 
 ### 🎨 Product Design Portfolio
 
-Explore my work across enterprise and AI products, complex workflows, and design systems.
+Enterprise and AI product experiences, complex workflows, and design systems.
 
-👉 **[Visit my website](https://www.maninderkaur.com/)**
+👉 **[Explore my portfolio](https://www.maninderkaur.com/)**
 
 ### ✨ UI/UX & Visual Explorations
 
@@ -110,34 +104,24 @@ I use code to explore interactions and turn design concepts into working experie
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=maninderkaur11&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"
-    alt="Maninder Kaur's GitHub stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maninderkaur11&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-    alt="Most used languages"
-  />
+  <img width="495" src="https://github-readme-stats.vercel.app/api?username=maninderkaur11&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Maninder Kaur's GitHub stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=maninderkaur11&theme=react&hide_border=true&background=0D1117"
-    alt="Maninder Kaur's GitHub streak"
-  />
+  <img width="495" src="https://streak-stats.demolab.com?user=maninderkaur11&theme=react&hide_border=true&background=0D1117" alt="Maninder Kaur's GitHub streak" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🌐 **Portfolio:** [maninderkaur.com](https://www.maninderkaur.com/)
-- 💼 **LinkedIn:** [maninderkaur11](https://www.linkedin.com/in/maninderkaur11/)
-- 🎨 **Behance:** [maninderkaur](https://www.behance.net/maninderkaur)
-- 🏀 **Dribbble:** [maninderkaur](https://dribbble.com/maninderkaur)
-- 💻 **GitHub:** [maninderkaur11](https://github.com/maninderkaur11)
+<p align="center">
+  <a href="https://www.maninderkaur.com/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/maninderkaur11/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/maninderkaur"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://dribbble.com/maninderkaur"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+  <a href="https://github.com/maninderkaur11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
@@ -145,4 +129,6 @@ I use code to explore interactions and turn design concepts into working experie
 
 Good design makes complex tasks easier to understand and complete.
 
-**Design. Build. Improve. Repeat.**
+<p align="center">
+  <strong>Design. Build. Improve. Repeat.</strong>
+</p>
