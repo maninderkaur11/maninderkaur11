@@ -1,21 +1,38 @@
-# 👋 Hi, I'm Maninder Kaur
+<h1 align="center">Hi 👋, I'm Maninder Kaur</h1>
 
-### Senior Product Designer | Enterprise SaaS & AI Experiences
+<h3 align="center">Senior Product Designer from India</h3>
 
-I design intuitive experiences for complex products and bring ideas to life through interactive and code-based prototypes.
+<p align="center">
+  <strong>Enterprise SaaS · AI Experiences · Design Systems · Code-Based Prototyping</strong>
+</p>
 
-🌐 **[Explore my portfolio](https://www.maninderkaur.com/)**
+<p align="center">
+  <a href="https://www.maninderkaur.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/maninderkaur11/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.behance.net/maninderkaur">
+    <img src="https://img.shields.io/badge/Behance-Explore_Work-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+</p>
 
 ---
 
-## 💡 About Me
+## 👩‍🎨 About Me
 
-- 🎯 **10+ years of product design experience** across enterprise SaaS, healthcare, and consumer products.
+- 🎯 Senior Product Designer with **10+ years of experience** across enterprise SaaS, healthcare, and consumer products.
 - 🤖 Designed **AI onboarding, agent-assistance, and customer communication experiences** at Nextiva.
-- 🎨 Contributed to the **Sedona design system**, supporting consistent product experiences.
-- 💻 Use **interaction design, visual design, and code-based prototyping** to explore and communicate ideas.
+- 🎨 Contributed to the **Sedona design system** to support consistent product experiences.
+- 💻 Bring ideas to life through **Figma prototypes, HTML, CSS, JavaScript, and React**.
+- ✨ Work with **Cursor, Claude, ChatGPT, and GitHub Copilot** for AI-assisted prototyping.
 - 🤝 Mentor designers through **design critiques and individual coaching**.
+- 🌐 Explore my work at **[maninderkaur.com](https://www.maninderkaur.com/)**.
+- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/maninderkaur11/)**.
 - 🚀 Open to **full-time and freelance product design opportunities**.
+
+---
 
 ---
 
