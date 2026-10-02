@@ -11,21 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.maninderkaur.com/">
-    <img src="https://api.iconify.design/lucide:globe.svg?color=%23F97316" width="36" height="36" alt="Portfolio" title="Portfolio" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/maninderkaur11/">
-    <img src="https://api.iconify.design/mdi:linkedin.svg?color=%230A66C2" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.behance.net/maninderkaur">
-    <img src="https://api.iconify.design/simple-icons:behance.svg?color=%231769FF" width="36" height="36" alt="Behance" title="Behance" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dribbble.com/maninderkaur">
-    <img src="https://api.iconify.design/simple-icons:dribbble.svg?color=%23EA4C89" width="36" height="36" alt="Dribbble" title="Dribbble" />
-  </a>
+  <a href="https://www.maninderkaur.com/"><img src="https://api.iconify.design/lucide:globe.svg?color=%23F97316" width="36" height="36" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maninderkaur11/"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%230A66C2" width="36" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.behance.net/maninderkaur"><img src="https://api.iconify.design/simple-icons:behance.svg?color=%231769FF" width="36" height="36" alt="Behance" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dribbble.com/maninderkaur"><img src="https://api.iconify.design/simple-icons:dribbble.svg?color=%23EA4C89" width="36" height="36" alt="Dribbble" /></a>
 </p>
 
 ---
