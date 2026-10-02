@@ -10,17 +10,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=F97316&center=true&vCenter=true&width=750&height=60&repeat=true&lines=Designing+Complex+Product+Experiences;AI+Onboarding+%7C+Agent+Assistance;Interaction+Design+%7C+Design+Systems;Figma+%7C+React+%7C+Code-Based+Prototyping" alt="Product design, AI experiences, design systems, and code-based prototyping" />
 </p>
 
-
-
 <p align="center">
-  <a href="https://www.maninderkaur.com/"><img height="36" src="https://img.shields.io/badge/Visit_Portfolio-111827?style=for-the-badge" alt="Portfolio" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/maninderkaur11/"><img height="36" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-</p>
-  <a href="https://www.behance.net/maninderkaur"><img height="36" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://dribbble.com/maninderkaur"><img height="36" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
-  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.maninderkaur.com/"><img height="30" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maninderkaur11/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.behance.net/maninderkaur"><img height="30" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>&nbsp;&nbsp;
+  <a href="https://dribbble.com/maninderkaur"><img height="30" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
 </p>
 
 ---
